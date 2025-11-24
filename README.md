@@ -10,14 +10,8 @@ By providing a clearer picture of salt‐related genetic variation and its evolu
 
 ## Project Guideline
 
-- `01data`: 
-  - the processed intermediate data
-
-- `02table`: 
+- `01table`: 
   - include the supplementary tables
-
-- `03codes`: 
-  - the code and scripts to generate the figures and results
 
 
 ## License
