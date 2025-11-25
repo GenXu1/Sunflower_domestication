@@ -13,6 +13,8 @@ By providing a clearer picture of salt‐related genetic variation and its evolu
 - `01table`: 
   - include the supplementary tables
 
+- `02codes`: 
+  - the code and scripts to generate the figures and results
 
 ## License
 
